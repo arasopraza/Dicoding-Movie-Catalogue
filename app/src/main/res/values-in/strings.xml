@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Go Movies</string>
+    <string name="appwidget_text">Film Kesukaan</string>
+    <string name="cancel_daily_reminder">Pengingat Harian di Nonaktifkan</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="cancel_release_reminder">Pengingat Rilis di Nonaktifkan</string>
+    <string name="daily_reminder">Buat Pengingat Harian</string>
+    <string name="detail_picture">Detail Gambar</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="favorite">Kesukaan</string>
+    <string name="message_daily_reminder">Hi, Go Movies ada kejutan hari ini!</string>
+    <string name="message_release_reminder">Hi, Go Movies punya film baru hari ini!</string>
+    <string name="movie">Film</string>
+    <string name="now_playing">Tonton Sekarang</string>
+    <string name="overview">Sinopsis</string>
+    <string name="picture">Gambar</string>
+    <string name="popularity">Kepopuleran</string>
+    <string name="release_today">Buat Pengingat Rilis</string>
+    <string name="search">Cari</string>
+    <string name="search_hint_movie">Cari Film</string>
+    <string name="search_hint_tv">Cari Acara Tv</string>
+    <string name="set_daily_reminder">Pengingat Harian di Aktifkan</string>
+    <string name="set_release_reminder">Pengingat Rilis di Aktifkan</string>
+    <string name="settings">Pengaturan</string>
+    <string name="tv_show">Acara Tv</string>
+    <string name="vote_average">Vote rata-rata</string>
+</resources>

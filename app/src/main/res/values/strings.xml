@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Go Movies</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="cancel_daily_reminder">Daily Reminder is Disabled</string>
+    <string name="change_language">Change Language</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="cancel_release_reminder">Release Reminder is Disabled</string>
+    <string name="daily_reminder">Set Daily Reminder</string>
+    <string name="detail_picture">Details Picture</string>
+    <string name="empty_text">No Data</string>
+    <string name="favorite">Favorite</string>
+    <string name="message_daily_reminder">Hi, Go Movies there is a surprise today!</string>
+    <string name="message_release_reminder">Hi, Go Movies have a new movie today!</string>
+    <string name="movie">Movie</string>
+    <string name="now_playing">Watching Now</string>
+    <string name="overview">Synopsis</string>
+    <string name="picture">Picture</string>
+    <string name="popularity">Popularity</string>
+    <string name="release_today">Set Release Reminder</string>
+    <string name="search">Search</string>
+    <string name="search_hint_movie">Search Movie</string>
+    <string name="search_hint_tv">Search Tv Show</string>
+    <string name="set_daily_reminder">Daily Reminders are Activated</string>
+    <string name="set_release_reminder">Release Reminders are Activated</string>
+    <string name="settings">Settings</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="vote_average">Vote Average</string>
+</resources>
