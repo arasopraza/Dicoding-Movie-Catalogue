@@ -6,19 +6,22 @@ Kriteria
 Fitur pada aplikasi:
 
 
-Pencarian film:
+
+-Pencarian film:
 
 Pengguna dapat melakukan pencarian Movies.
 Pengguna dapat melakukan pencarian Tv Show.
 
 
-Widget:
+
+-Widget:
 
 Pengguna dapat menampilkan widget dari film favorite ke halaman utama smartphone.
 Tipe widget yang diterapkan adalah Stack Widget.
 
 
-Reminder:
+
+-Reminder:
 
 Daily Reminder, mengirimkan notifikasi ke pengguna untuk kembali ke Aplikasi Movie Catalogue. Daily reminder harus selalu berjalan tiap jam 7 pagi.
 
