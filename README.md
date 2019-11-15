@@ -1,2 +1,3 @@
 # Dicoding-Movie-Catalogue
-Final Submission dari kelas Menjadi Android Developer Expert di Dicoding
+Proyek Akhir: Aplikasi Movie Catalogue 
+dari kelas Menjadi Android Developer Expert di Dicoding
