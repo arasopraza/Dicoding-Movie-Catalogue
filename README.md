@@ -5,15 +5,18 @@ dari kelas Menjadi Android Developer Expert di Dicoding
 Kriteria
 Fitur pada aplikasi:
 
+
 Pencarian film:
 
 Pengguna dapat melakukan pencarian Movies.
 Pengguna dapat melakukan pencarian Tv Show.
 
+
 Widget:
 
 Pengguna dapat menampilkan widget dari film favorite ke halaman utama smartphone.
 Tipe widget yang diterapkan adalah Stack Widget.
+
 
 Reminder:
 
